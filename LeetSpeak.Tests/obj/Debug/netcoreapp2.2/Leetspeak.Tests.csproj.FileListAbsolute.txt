@@ -1,0 +1,17 @@
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.deps.json
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.runtimeconfig.json
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.runtimeconfig.dev.json
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.dll
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.pdb
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Leetspeak.dll
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Leetspeak.pdb
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.csprojAssemblyReference.cache
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.AssemblyInfoInputs.cache
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.AssemblyInfo.cs
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.csproj.CopyComplete
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.dll
+C:\Users\Holde\desktop\coding\Leetspeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.pdb
